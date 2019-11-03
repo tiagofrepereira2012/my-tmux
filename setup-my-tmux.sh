@@ -1,5 +1,5 @@
 cp .tmux.conf ~
-cp .tmux-gitbar.cong ~
+cp .tmux-gitbar.conf ~
 
 # git bar shit
 git clone https://github.com/arl/tmux-gitbar.git ~/.tmux-gitbar
